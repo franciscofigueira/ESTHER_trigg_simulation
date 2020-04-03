@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Francisco/Desktop/esther_sim/esther_sim.srcs/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_generator_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Francisco/Desktop/esther_sim/esther_sim.srcs/sources_1/new/CFD_t.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CFD_t
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Francisco/Desktop/esther_sim/esther_sim.srcs/sources_1/new/esther_trigg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module esther_trigg
+WARNING: [VRFC 10-159] /* in comment [C:/Users/Francisco/Desktop/esther_sim/esther_sim.srcs/sources_1/new/esther_trigg.v:157]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Francisco/Desktop/esther_sim/esther_sim.srcs/sim_1/new/trigg_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module trigg_tb

@@ -1,0 +1,1 @@
+-wto "0636a3dca5714c9580ec594f5a3693cd" --incr --debug "typical" --relax --mt "2" -generic_top "delay_a=300," -generic_top "level_a=0" -L "fifo_generator_v13_2_4" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "trigg_tb_behav" "xil_defaultlib.trigg_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
